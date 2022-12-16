@@ -29,12 +29,7 @@ public class DropDown {
 			if(CC.getText().contains("5 years")) {
 				CC.click();
 				break;
-			}
-			
-			
-			
-			
-			
+			}	
 		}
 		
 		
